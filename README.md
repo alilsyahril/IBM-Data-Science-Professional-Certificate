@@ -54,3 +54,4 @@ There are 9 Courses in this Professional Certificate Specialization are as follo
 
 - [x] __Applied Data Science Capstone__
 
+[View My Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/TNJETFLR7ZXL)
